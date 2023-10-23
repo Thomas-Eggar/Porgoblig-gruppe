@@ -1,0 +1,153 @@
+orange = circle(50,"solid","orange")
+blue = circle(40, "solid", "blue")
+green = circle(30, "solid", "green")
+red = circle(20, "solid", "red")
+black = circle(10, "solid", "black")
+bakgrunn = empty-scene(500, 120)
+
+
+put-image(black, 100, 60,
+  put-image(red, 100, 60, 
+    put-image(green, 100, 60,
+      put-image(blue, 100, 60,
+        put-image(orange, 100, 60,
+          put-image(black, 250, 60,
+            put-image(black, 400, 60,
+              bakgrunn)))))))
+
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 100, 60,
+          put-image(blue, 100, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 100, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 400, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 100, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 400, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 100, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 100, 60,
+        put-image(green, 250, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 250, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 100, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 250, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 400, 60,
+        put-image(green, 250, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 400, 60,
+        put-image(green, 100, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 100, 60,
+        put-image(green, 100, 60,
+          put-image(blue, 250, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 100, 60,
+        put-image(green, 100, 60,
+          put-image(blue, 400, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 100, 60,
+          put-image(blue, 400, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 250, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 400, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
+
+put-image(black, 100, 60,
+  put-image(black, 250, 60,
+    put-image(black, 400, 60,
+      put-image(red, 400, 60,
+        put-image(green, 400, 60,
+          put-image(blue, 400, 60,
+            put-image(orange, 400, 60,
+              bakgrunn)))))))
